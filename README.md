@@ -4,7 +4,7 @@ My first repository
 # *Stranger Things*
 
 ## Overview
-**Stranger** Things is a science fiction–horror series created by the Duffer Brothers and released on **Netflix**.  
+**Stranger Things** is a science fiction–horror series created by the Duffer Brothers and released on **Netflix**.  
 It’s set in the 1980s in the small town of *Hawkins, Indiana*, where strange and supernatural events start to unfold.
 
 ## Main Characters
