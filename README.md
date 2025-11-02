@@ -32,13 +32,13 @@ It’s set in the 1980s in the small town of *Hawkins, Indiana*, where strange a
 
 ---
 
-## Fun Fact
+### Fun Fact
 Did you know?  
 The show was almost titled **"Montauk"**, based on a real conspiracy theory about secret experiments in New York.
 
 ---
 
-## Learn More
+### Learn More
 Check it out on [Netflix](https://www.netflix.com/title/80057281)  
 or read more on the [Wikipedia page](https://en.wikipedia.org/wiki/Stranger_Things).
 
